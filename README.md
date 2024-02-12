@@ -47,14 +47,25 @@ Access Swagger UI at http://localhost:8080/swagger-ui.html for detailed API docu
 # 12+ APIs Writtern:
 
 POST /issue-card: Issue a library card to a student.
-POST /associateCardWithStudent
-POST /addBook
-POST /addAuthor
-POST /addStudent
+
+POST /associateCardWithStudent.
+
+POST /addBook.
+
+POST /addAuthor.
+
+POST /addStudent.
+
 POST /return-book: Return a book to the library.
+
 POST /record-transaction: Record a transaction (e.g., borrowing, returning).
+
 GET /authors/{id}: Find an author by ID.
+
 GET /books/{id}: Find a book by ID.
+
 GET /students/{id}: Find a student by ID.
+
 POST /generate-library-card: Generate a new library card for a student.
+
 PUT /update-phone/{studentId}: Update a student's phone number.
