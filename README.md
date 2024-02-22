@@ -59,4 +59,7 @@ Access Swagger UI at http://localhost:8080/swagger-ui.html for detailed API docu
 - POST /generate-library-card: Generate a new library card for a student.
 - PUT /update-phone/{studentId}: Update a student's phone number  and more...
 
+#Screen shots of Swagger UI: 
 
+![Screenshot (3)](https://github.com/rishabh0085/Library-Management-System/assets/52191143/354e9a8b-e67a-4732-85c3-0abe763516df)
+![Screenshot (4)](https://github.com/rishabh0085/Library-Management-System/assets/52191143/6b2a0796-e8de-4d01-bb29-6d8e1899c7f3)
