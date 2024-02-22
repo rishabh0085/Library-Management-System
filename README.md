@@ -44,7 +44,7 @@ Use Postman to test the APIs. Import the provided Library_Management_System.post
 
 Access Swagger UI at http://localhost:8080/swagger-ui.html for detailed API documentation.
 
-# 12+ APIs Writtern:
+# 16+ APIs Writtern:
 
 POST /issue-card: Issue a library card to a student.
 
