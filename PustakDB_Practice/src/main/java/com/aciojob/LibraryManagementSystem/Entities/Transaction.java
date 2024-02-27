@@ -30,7 +30,7 @@ public class Transaction {
 
     private Date returnDate;
 
-    private Integer fineAmount;
+    private Integer fineAmount = 0;
 
     public Transaction(TransactionStatus transactionStatus, TransactionType transactionType, Integer fineAmount) {
         this.transactionStatus = transactionStatus;
